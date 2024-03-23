@@ -1,5 +1,11 @@
 console.log('어서와 성윤아');
-console.log('반갑다 영미야');
 const hello = document.querySelector("#hello");
-
 hello.innerText = "안녕";
+console.log('어');
+console.log('서');
+console.log('와');
+console.log('성');
+console.log('윤');
+console.log('아');
+console.log('아이빡쳐');
+console.log('반갑다 영미야');
